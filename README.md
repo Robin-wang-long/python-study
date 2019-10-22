@@ -1,6 +1,6 @@
 # python-study
 本学期我们开了python程序设计这门课
-我想把本学期我写的，练习的python的代码上传到GitHub上面我的库中。
+我想把本学期我写的，练习的python的代码上传到GitHub上面我的仓库中。
 也是学习使用GitHub的一个过程
 
 
