@@ -1,0 +1,10 @@
+clear passed
+isEmpty passed
+isFull passed
+push and pop passed
+setSize failed
+clear passed
+isEmpty passed
+isFull passed
+push and pop passed
+setSize failed
